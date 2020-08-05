@@ -1,6 +1,6 @@
 # django-hotel
 
-firstly You go to the django-hotel.Then go to the src file and you are able to see the the flie name is "project". Click to the that file and then finally you entered the main file and all the code is front of you.
+firstly You go to the django-hotel.Then go to the src file and you are able to see the the flie name is "project". Click to the that file and then finally you entered the main file and all the code is front of you.# django-hotel
 1. Open the terminal and write #"python manage.py makemigrations" OR #"python manage.py migrate".
 2.When Everything done then type "python manage.py createsuperuser" in the terminal.
   ->When you type this thing in the Terminal the ask some Something like:
