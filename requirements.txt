@@ -178,7 +178,7 @@ request==1.0.117
 requests==2.24.0
 requests-oauthlib==1.2.0
 rope==0.16.0
-rsa==3.4.2
+rsa==4.1
 Rx==1.6.1
 s3transfer==0.3.3
 sentry-sdk==0.15.1
