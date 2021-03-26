@@ -172,7 +172,7 @@ python-decouple==3.1
 python-vlc==3.0.10114
 python3-openid==3.1.0
 pytz==2018.5
-PyYAML==5.3.1
+PyYAML==5.4
 reportlab==3.5.46
 request==1.0.117
 requests==2.24.0
