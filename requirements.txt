@@ -119,7 +119,7 @@ imagesize==1.2.0
 incremental==17.5.0
 isort==4.3.4
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 jmespath==0.9.5
 jsmin==2.2.2
 jsonfield==3.1.0
