@@ -152,7 +152,7 @@ promise==2.3
 protobuf==3.12.2
 psycopg2==2.8.5
 ptyprocess==0.6.0
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAudio @ file:///C:/Users/Rohit/AppData/Roaming/Microsoft/Windows/Start%20Menu/Programs/Python%203.8/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
