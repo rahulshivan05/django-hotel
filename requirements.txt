@@ -21,7 +21,7 @@ billiard==3.6.3.0
 bleach==3.3.0
 botocore==1.15.37
 bottle==0.12.18
-celery==4.4.6
+celery==5.2.2
 certifi==2019.3.9
 cffi==1.14.0
 chardet==3.0.4
