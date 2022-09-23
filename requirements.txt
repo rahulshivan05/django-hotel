@@ -149,7 +149,7 @@ pipenv==2020.6.2
 pluggy==0.13.1
 prices==1.0.0
 promise==2.3
-protobuf==3.12.2
+protobuf==3.18.3
 psycopg2==2.8.5
 ptyprocess==0.6.0
 py==1.8.1
