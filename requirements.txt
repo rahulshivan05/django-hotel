@@ -145,7 +145,7 @@ pbr==5.4.5
 pep8==1.7.1
 pexpect==4.8.0
 Pillow==9.3.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 pluggy==0.13.1
 prices==1.0.0
 promise==2.3
